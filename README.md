@@ -62,3 +62,4 @@ config.vm.box_version = "201912.15.0""
 - postgress connecting database https://www.postgresql.org/docs/12/tutorial-accessdb.html
 - sql basics https://www.sqltutorial.org/sql-cheat-sheet/
 - sql advance https://hackr.io/blog/sql-cheat-sheet
+- tutorial  https://www.youtube.com/watch?v=2PDkXviEMD0
