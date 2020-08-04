@@ -56,3 +56,9 @@ config.vm.box_version = "201912.15.0""
 `conn = psycopg2.connect("dbname=news")`
 
 7. execute python file python `python log_analysis.py` 
+
+### Resources
+- postgress documentation https://www.postgresql.org/docs/devel/app-psql.html
+- postgress connecting database https://www.postgresql.org/docs/12/tutorial-accessdb.html
+- sql basics https://www.sqltutorial.org/sql-cheat-sheet/
+- sql advance https://hackr.io/blog/sql-cheat-sheet
